@@ -1,0 +1,72 @@
+.spotify-tooltip {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.spotify-tooltip-box {
+    spacing: 5px;
+}
+
+.spotify-tooltip-image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 8px;
+}
+
+.spotify-tooltip-title {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.spotify-tooltip-artist {
+    color: #a7a7a7;
+    font-size: 12px;
+    text-align: center;
+}
+
+.spotify-menu-box {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    spacing: 5px;
+}
+
+.spotify-menu-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+.spotify-menu-title {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.spotify-menu-artist {
+    color: #999;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+/* Make menu items show pointer cursor on hover */
+.popup-menu-item {
+    cursor: pointer;
+    padding: 8px;
+}
+
+.popup-menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.popup-menu-item:active {
+    background-color: rgba(255, 255, 255, 0.2);
+} 

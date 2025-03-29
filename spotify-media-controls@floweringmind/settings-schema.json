@@ -1,0 +1,7 @@
+{
+    "icon-name": {
+        "type": "string",
+        "default": "dialog-information",
+        "description": "Icon to display"
+    }
+} 
